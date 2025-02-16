@@ -5,7 +5,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FyodorAmanov1/quantumSimulations/blob/main/molecules_qiskit.ipynb)
 
-This repository contains a Jupyter Notebook demonstrating quantum simulation of the H₂ molecule using Qiskit. The implementation includes Hamiltonian construction, quantum circuit optimization, and molecular orbital visualization.
+This repository contains a Jupyter Notebook demonstrating quantum simulation of the H2, H2O, HCL and citric acid Molecules using Qiskit. The implementation includes Hamiltonian construction, quantum circuit optimization, and molecular orbital visualization.
 
 ## Features
 
